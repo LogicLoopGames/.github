@@ -11,7 +11,7 @@ LogicLoop Games is a venture dedicated to developing challenging puzzle games co
 ### Leap
 A minimalist strategic puzzle game where you try to place consecutive numbers on a 7x7 grid by making valid moves.
 
-[Source Code]([link](https://github.com/LogicLoopGames/Leap))
+[Source Code](https://github.com/LogicLoopGames/Leap)
 
 *More games coming soon...*
 
