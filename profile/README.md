@@ -78,7 +78,7 @@ Our games are tested and supported on the following browsers:
 
 ## 📫 Contact
 - Website: [Visit our website!](https://logicloopgames.github.io/Leap/)
-- GitHub: [@LogicLoopGames]([link](https://github.com/LogicLoopGames))
+- GitHub: [LogicLoopGames]([link](https://github.com/LogicLoopGames))
 
 ## 🔧 Development Setup
 
